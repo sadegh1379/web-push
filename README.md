@@ -9,14 +9,6 @@
 </div>
 
 
-## Quickest Start 
-
-Click the button to clone this repository and deploy it on Vercel
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fbcanfield%2Fnextjs-pwa-webpush-template&showOptionalTeamCreation=false)
-
-
-
 ## Quick Start
 **Customize the site config at [site-config.ts](https://github.com/bcanfield/nextjs-pwa-webpush-template/blob/main/lib/site-config.ts)** <br/>*Modifying values here will update your PWA config such as your Web Manifest, Metadata, and Generated Images*
 
